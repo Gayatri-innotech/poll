@@ -3,7 +3,7 @@ import authSlice from "./redux/authSlice";
 
 const store = configureStore({
     reducer:{
-        authSlice
+        authSlice,
     }
 })
 export default store

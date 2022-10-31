@@ -11,7 +11,7 @@ function App() {
         <Route path='/reg' element={<Register/>}/>
       </Routes>
     </BrowserRouter>
-  );
+  ); 
 }
 
 export default App;
